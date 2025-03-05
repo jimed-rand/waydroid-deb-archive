@@ -1,2 +1,2 @@
-# waydroid-deb-archive
-The archives of Waydroid packages for Debian/Ubuntu.
+# waydroid-archive
+The archives of Waydroid packages for Debian/Ubuntu and openSUSE.
